@@ -983,11 +983,12 @@ body.nav-active { overflow: hidden; }
 }
 
 .about .abs-img-1::before {
-  top: 0;
+  top: 45px;
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
   width: 140px;
+  height: 200px;
   background-image: url('../images/img-pattern.svg');
   background-repeat: repeat;
 }
